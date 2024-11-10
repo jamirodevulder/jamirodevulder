@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **C#, Unity, Unreal engine blueprinting.**
 
-- 📫 How to reach me **jamirodevulder.com**
-
 - 📄 Know about my experiences [jamirodevulder.com](jamirodevulder.com)
 
 - ⚡ Fun fact **I love ducks. Rubber ducks even more**
