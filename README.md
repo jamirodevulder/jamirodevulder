@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jamiro</h1>
 <h3 align="center">A passionate problem solver!</h3>
 
-- 🔭 I’m currently working on **A game for Rescue Museum and An electrical engineering module in VR**
+- 🔭 I’m currently working on **A game for Rescue Museum and An electrical engineering module in VR @ Emagine**
 
 - 🌱 I’m currently learning **SignalR, C#, Unity**
 
